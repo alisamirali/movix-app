@@ -1,6 +1,6 @@
 # Movix
 
-Movix is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.
+Movix is a movie database application with front-end technologies like React, Redux, and SCSS.
 
 ### Getting Started
 
