@@ -1,6 +1,6 @@
 # Movix
 
-Movix is a movie database application with front-end technologies like React, Redux, and SCSS.
+Movix is a movie database application with front-end technologies like React, Redux, and SASS.
 
 ### Getting Started
 
